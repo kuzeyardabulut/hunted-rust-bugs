@@ -1,5 +1,5 @@
-| Date | Project | Link | Finder | Status | Description |
-|---------|---------|---------|---------|---------|---------|
+| Date      | Project | Link | Finder | Status | Description |
+|-----------|---------|---------|---------|---------|---------|
 | 2023-08-1 | Fyrox | [PR#476](https://github.com/FyroxEngine/Fyrox/pull/476) | Kuzey Arda Bulut | Merged | double free if panic |
 | 2023-08-2 | notify | [issue/516](https://github.com/notify-rs/notify/issues/516) | Kuzey Arda Bulut | Merged | double free if panic |
 | 2023-08-2 | jsonpath | [PR#94](https://github.com/freestrings/jsonpath/pull/94) | Kuzey Arda Bulut | Submitted | double free if panic |
