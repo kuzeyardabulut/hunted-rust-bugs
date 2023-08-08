@@ -10,4 +10,4 @@
 | 2023-08-3 | rxRust | [PR#240](https://github.com/rxRust/rxRust/pull/240) | Kuzey Arda Bulut | Submitted | unconditionally implements Send/Sync |
 | 2023-08-5 | twitter/pants | [PR#50](https://github.com/twitter/pants/pull/50) | Kuzey Arda Bulut | Submitted | double free if panic |
 | 2023-08-5 | seafowl-udf-rust | [issue/1](https://github.com/splitgraph/seafowl-udf-rust/issues/1) | Kuzey Arda Bulut | Submitted | double free if panic |
-| 2023-08-8 | image-rs/imageproc | [issues/537](https://github.com/image-rs/imageproc/issues/537) | Kuzey Arda Bulut | Submitted | 2 Integer Overflow |
+| 2023-08-8 | imageproc | [issues/537](https://github.com/image-rs/imageproc/issues/537) | Kuzey Arda Bulut | Submitted | 2 Integer Overflow |
