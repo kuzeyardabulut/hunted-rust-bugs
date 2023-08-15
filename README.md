@@ -2,6 +2,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | 2023-08-1 | Fyrox | [PR#476](https://github.com/FyroxEngine/Fyrox/pull/476) | Kuzey Arda Bulut | Merged | double free if panic |
 | 2023-08-2 | notify | [issue/516](https://github.com/notify-rs/notify/issues/516) | Kuzey Arda Bulut | Merged | double free if panic |
+| 2023-08-2 | makepad | [PR#194](https://github.com/makepad/makepad/pull/194) | Kuzey Arda Bulut | Merged | unconditionally implements Send/Sync |
 | 2023-08-2 | jsonpath | [PR#94](https://github.com/freestrings/jsonpath/pull/94) | Kuzey Arda Bulut | Submitted | double free if panic |
 | 2023-08-2 | napi-rs | [PR#1679](https://github.com/napi-rs/napi-rs/pull/1679) | Kuzey Arda Bulut | Submitted | double free if panic |
 | 2023-08-3 | firefly | [PR#727](https://github.com/GetFirefly/firefly/pull/727) | Kuzey Arda Bulut | Merged | unconditionally implements Send/Sync |
